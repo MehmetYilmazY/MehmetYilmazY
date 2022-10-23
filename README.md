@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Sleexc
 - 👀 I’m interested in programming and games
-- 🌱 I’m currently learning Dart
+- 🌱 I’m currently learning React.js
 - 📫 You can reach me on twitter @mehmetposts
