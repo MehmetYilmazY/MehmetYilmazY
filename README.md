@@ -2,5 +2,5 @@
 
 - 👋 Hi, I’m @Sleexc
 - 👀 I’m interested in programming and games
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Laravel
 - 📫 You can reach me on Twitter @mehmetposts
