@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mehmet</h1>
 <h3 align="center">A passionate junior developer from Istanbul</h3>
 
-<img src="https://github.com/MehmetYilmazY/MehmetYilmazY/blob/main/nyan-cat-rainbow.gif" alt="kde-dragons" width="250" height="250"/> </a>
+<center><img src="https://github.com/MehmetYilmazY/MehmetYilmazY/blob/main/nyan-cat-rainbow.gif" alt="kde-dragons" width="550" height="250"/> </a></center>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sleexc&label=Profile%20views&color=0e75b6&style=flat" alt="sleexc" /> </p>
 
