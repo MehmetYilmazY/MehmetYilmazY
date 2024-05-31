@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **@mehmetposts**
 - 
-<img src="https://github.com/MehmetYilmazY/MehmetYilmazY/blob/main/KDE-Dragons-ensemble.png" alt="kde-dragons" width="500" height="400"/> </a>
+<img src="https://github.com/MehmetYilmazY/MehmetYilmazY/blob/main/nyan-cat-rainbow.gif" alt="kde-dragons" width="500" height="400"/> </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">my LinkedIn or Twitter</p>
