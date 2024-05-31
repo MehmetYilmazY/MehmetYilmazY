@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mehmet</h1>
-<h3 align="center">A passionate web developer from Istanbul</h3>
+<h3 align="center">A passionate junior developer from Istanbul</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sleexc&label=Profile%20views&color=0e75b6&style=flat" alt="sleexc" /> </p>
 
-- 🔭 I’m currently working on **personal projects**
+- 🔭 I’m currently working on **a visa searcher bot**
 
 - 📫 How to reach me **@mehmetposts**
 
