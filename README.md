@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehmet</h1>
-<h3 align="center">A passionate junior developer from Istanbul</h3>
+<h3 align="center">A passionate developer from Istanbul</h3>
 
 <p align="center"> <img src="https://github.com/MehmetYilmazY/MehmetYilmazY/blob/main/battle.gif" alt="sleexc" /> </p>
 
