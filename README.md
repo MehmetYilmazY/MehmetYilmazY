@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">Hi 👋, I'm Mehmet. I'm a Backend Developer from Istanbul.</h2>
+<h2 align="left">Hi 👋, I'm Mehmet. Jr Backend Developer from Istanbul.</h2>
 
 ###
 
